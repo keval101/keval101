@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/keval_vadhiya101/
-[linkedin]: https://www.linkedin.com/in/keval-vadhiya-992603197/
+[linkedin]: https://www.linkedin.com/in/keval-vadhiya-914064199/
