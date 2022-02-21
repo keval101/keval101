@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to edit pictures.
 
-💡 It's my portfolio link: https://kevalvadhiya.netlify.app 💻
+💡 It's my portfolio link: https://www.kevalvadhiya.me 💻
 
 ### Connect with me:
 
