@@ -1,7 +1,7 @@
 ### Hi there, I'm Keval  👋
 
 
-## I'm a Student, Developer !! ![Visitor Count](https : //profile-counter.glitch.me/{keval101}/count.svg)
+## I'm a Student, Developer !! ![Visitor Count](https://profile-counter.glitch.me/keval101/count.svg)
 
 
 Here are some ideas to get you started:
