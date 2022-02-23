@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/keval101">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=keval101&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keval101&layout=compact&exclude_lang=java+r&theme=codeSTACKr" />
-  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/></a>
 </p>
 
 [instagram]: https://www.instagram.com/keval_vadhiya101/
