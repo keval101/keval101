@@ -1,4 +1,4 @@
-### Hi there, I'm Keval  👋
+### Hi there, I'm Keval  <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">
 
 
 ## I'm a Student, Developer !!
