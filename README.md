@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>]
 
-<br/>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
