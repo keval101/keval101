@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 💡 It's my portfolio link: https://www.kevalvadhiya.me 💻
 
+![counter](https://komarev.com/ghpvc/?username=ptprashanttripathi&style=flat-square)
+
 ### Connect with me:
 
 
@@ -30,6 +32,14 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />]
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PtPrashantTripathi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PtPrashantTripathi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PtPrashantTripathi&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/></a>
+</p>
 
 [instagram]: https://www.instagram.com/keval_vadhiya101/
 [linkedin]: https://www.linkedin.com/in/keval-vadhiya-914064199/
