@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>][] &nbsp;
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>][] &nbsp;
-[<img align="left" alt="medium" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/>][] &nbsp;
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>][https://img.shields.io/badge/Angular-DD0031] &nbsp;
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>][https://img.shields.io/badge/Material%20UI-007FFF] &nbsp;
+[<img align="left" alt="medium" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/>]["https://img.shields.io/badge/material%20design-757575] &nbsp;
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>][] &nbsp;
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>][] &nbsp;
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>][] &nbsp;
