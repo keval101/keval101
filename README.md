@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <img align="left" alt="medium" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 <br />
-<br />
 <p align='left'>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -44,7 +43,6 @@ Here are some ideas to get you started:
 <img align="left" alt="medium" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </p>
 </br>
-
 
 <br />
 <br />
