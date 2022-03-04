@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>]
+[<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>][linkedin]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>]
 
 <br />
