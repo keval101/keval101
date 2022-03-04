@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 
 ![counter](https://komarev.com/ghpvc/?username=keval101&style=flat-square)
 
-### Connect with me:
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
-
-<br />
 
 ### Connect with me:
 
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>] &nbsp;
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>] &nbsp;
+
+<br />
+
+### Connect with me:
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
 <br />
 
