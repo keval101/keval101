@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to edit pictures.
 
 👨‍💻 Portfolio : https://kevalvadhiya.netlify.app 💻<br>
-👨‍🎓 Experience Level: 1.9+ years
+👨‍🎓 Experience Level: 2.4+ years
 
 ![counter](https://komarev.com/ghpvc/?username=keval101&style=flat-square)
 
