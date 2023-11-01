@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to edit pictures.
+- 🔭 I’m currently working on Angular applications, crafting robust and user-friendly web solutions.
+- 👯 I’m always open to collaborate with fellow developers, content creators, and open source enthusiasts who share the same passion for Angular.
+- 🥅 Continue expanding my knowledge of Angular and related technologies.
+- ⚡ Fun fact: I have a passion for editing pictures and unleashing my creativity through graphic design.
 
 👨‍💻 Portfolio : https://kevalvadhiya.netlify.app 💻<br>
 👨‍🎓 Experience Level: 2.4+ years
