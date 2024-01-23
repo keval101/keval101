@@ -65,4 +65,4 @@ Here are some ideas to get you started:
 </p>
 
 [instagram]: https://www.instagram.com/keval_vadhiya101/
-[linkedin]: https://www.linkedin.com/in/keval-vadhiya-914064199/
+[linkedin]: https://www.linkedin.com/in/keval-v-914064199/
