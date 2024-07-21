@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 
 <p align='left'>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/PrimeNg-DD0031?style=for-the-badge&logoColor=white"/>
+<img align="left" alt="medium" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img align="left" alt="medium" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white">
 <img align="left" alt="medium" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
