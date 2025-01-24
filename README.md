@@ -67,8 +67,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=keval101&layout=compact&exclude_lang=java+r&theme=codeSTACKr" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keval101&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 [instagram]: https://www.instagram.com/keval_vadhiya101/
 [linkedin]: https://www.linkedin.com/in/keval-v-914064199/
