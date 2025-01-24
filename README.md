@@ -52,10 +52,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Connect with me:
-
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
 
 <br />
 
