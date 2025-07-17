@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hey!+I'm+Keval+Vadhiya+%F0%9F%91%8B;Senior+Angular+Developer+%7C+Frontend+Ninja+%F0%9F%A7%AA;3.5%2B+Years+Crafting+Modern+Web+Experiences;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:F7DF1E&height=150&section=header&text=Keval%20Vadhiya%20&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=fff" />
-</p>
-
 ---
 
 <div align="center">
