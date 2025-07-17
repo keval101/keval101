@@ -1,12 +1,36 @@
-### Hi there, I'm Keval <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="30px">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hey!+I'm+Keval+Vadhiya+%F0%9F%91%8B;Senior+Angular+Developer+%7C+Frontend+Ninja+%F0%9F%A7%AA;3.5%2B+Years+Crafting+Modern+Web+Experiences;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
-## I'm a Front End Developer!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:F7DF1E&height=120&section=header&text=Keval%20Vadhiya%20%7C%20Angular%20Artisan&fontSize=40&fontAlignY=40&animation=twinkling" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Angular applications, crafting robust and user-friendly web solutions.
-- 🥅 Continue expanding my knowledge of Angular and related technologies.
-- ⚡ Fun fact: I have a passion for editing pictures and unleashing my creativity through graphic design.
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</div>
+
+---
+
+## 🚀 About Me
+
+> *“Code is my canvas, Angular is my brush, and every pixel is a new story.”*
+
+- 👨‍💻 **Frontend Developer (3.5+ years) specializing in Angular (2+)**
+- 🏆 Designed and shipped high-quality, responsive, and user-centric web applications
+- 🤝 Collaborative team player, Agile enthusiast, and mentor to budding devs
+- 💡 Driven by curiosity, creativity, and the pursuit of pixel-perfect experiences
+
+---
 
 👨‍💻 Portfolio: [kevalvadhiya.netlify.app](https://kevalvadhiya.netlify.app) 💻<br>
 👨‍🎓 Experience Level: 3.6+ years
