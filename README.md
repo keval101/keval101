@@ -23,8 +23,6 @@
 
 ## 🚀 About Me
 
-> *“Code is my canvas, Angular is my brush, and every pixel is a new story.”*
-
 - 👨‍💻 **Frontend Developer (3.5+ years) specializing in Angular (2+)**
 - 🏆 Designed and shipped high-quality, responsive, and user-centric web applications
 - 🤝 Collaborative team player, Agile enthusiast, and mentor to budding devs
