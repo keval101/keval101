@@ -30,7 +30,7 @@
 
 ![counter](https://komarev.com/ghpvc/?username=keval101&style=flat-square)
 
-### Languages and Tools:
+## 🧰 Tech Toolbox
 
 <p align='left'>
 <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
@@ -53,10 +53,10 @@
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </p>
 
-### Connect with me:
+## 🌐 Let's Connect!
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-### ⚙️  &nbsp;GitHub Analytics
+## ⚙️  &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/keval101">
