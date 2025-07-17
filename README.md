@@ -27,7 +27,6 @@
 ---
 
 👨‍💻 Portfolio: [kevalvadhiya.netlify.app](https://kevalvadhiya.netlify.app) 💻<br>
-👨‍🎓 Experience Level: 3.6+ years
 
 ![counter](https://komarev.com/ghpvc/?username=keval101&style=flat-square)
 
