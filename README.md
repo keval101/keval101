@@ -26,8 +26,6 @@
 
 ---
 
-👨‍💻 Portfolio: [kevalvadhiya.netlify.app](https://kevalvadhiya.netlify.app) 💻<br>
-
 ![counter](https://komarev.com/ghpvc/?username=keval101&style=flat-square)
 
 ## 🧰 Tech Toolbox
