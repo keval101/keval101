@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hey!+I'm+Keval+Vadhiya+%F0%9F%91%8B;Senior+Angular+Developer+%7C+Frontend+Ninja+%F0%9F%A7%AA;3.5%2B+Years+Crafting+Modern+Web+Experiences;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3200&pause=700&color=F7DF1E&center=true&vCenter=true&width=700&lines=Hey!+I'm+Keval+Vadhiya+%F0%9F%91%8B;Senior+Angular+Developer+%7C+Frontend+Ninja+%F0%9F%A7%AA;4%2B+Years+Crafting+Modern+Web+Experiences;Let's+Build+Something+Awesome+Together!+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Frontend Developer (3.5+ years) specializing in Angular (2+)**
+- 👨‍💻 **Frontend Developer (4+ years) specializing in Angular (2+)**
 - 🏆 Designed and shipped high-quality, responsive, and user-centric web applications
 - 🤝 Collaborative team player, Agile enthusiast, and mentor to budding devs
 - 💡 Driven by curiosity, creativity, and the pursuit of pixel-perfect experiences
