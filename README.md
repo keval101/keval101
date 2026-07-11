@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Frontend Developer (4+ years) specializing in Angular (2+)**
+- 👨‍💻 **Frontend Developer (5+ years) specializing in Angular (2+)**
 - 🏆 Designed and shipped high-quality, responsive, and user-centric web applications
 - 🤝 Collaborative team player, Agile enthusiast, and mentor to budding devs
 - 💡 Driven by curiosity, creativity, and the pursuit of pixel-perfect experiences
